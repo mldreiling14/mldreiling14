@@ -34,8 +34,6 @@ Currently working on the **UNC Healthy Vets Community Project**, where I build d
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS_StoryMaps-2C7AC3?style=for-the-badge&logoColor=white)
-![Kumu](https://img.shields.io/badge/Kumu-5A4FCF?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
 
