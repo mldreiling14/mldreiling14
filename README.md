@@ -61,7 +61,7 @@ Currently working on the **UNC Healthy Vets Community Project**, where I build d
 ## 🎓 Education
 
 - **MPH, Data Science Concentration** — The University of North Carolina at Chapel Hill
-- **BSA, Biology (Pre-Medical Track)** — The University of Texas at Austin
+- **BSA, Biology** — The University of Texas at Austin
 
 ## 📜 Certifications
 
