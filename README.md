@@ -1,4 +1,4 @@
-# Hi, I'm Michael Dreiling 👋
+# Hi, I'm Michael 👋
 
 ### Healthcare Data Analyst | Public Health | Data Science
 
