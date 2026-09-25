@@ -8,13 +8,15 @@ Currently working on the **UNC Healthy Vets Community Project**, where I build d
 
 **My interests include:**
 
-- 🏥 Healthcare analytics and patient access
-- 🎖️ Veteran health and well-being
-- 📊 Dashboard development and data visualization
-- 🗺️ Geospatial and community-level analysis
-- 💬 Text analytics and NLP on qualitative data
-- 🤖 AI-assisted analysis and automation
-- 🔄 Requirements gathering and workflow mapping
+🩺 Patient-centered outcomes and patient-centered data
+👩‍⚕️ Provider data and improving the care experience for physicians
+🧩 Systems-level approaches to healthcare improvement
+🏥 Healthcare analytics and patient access
+🎖️ Veteran health and well-being
+📊 Dashboard development and data visualization
+🗺️ Geospatial and community-level analysis
+🤖 AI-assisted analysis and automation
+🔄 Requirements gathering and workflow mapping
 
 ---
 
